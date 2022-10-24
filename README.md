@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ...A game
+- 🔭 I’m currently working on ...Data Structures & Algoritms
 - 🌱 I’m currently learning ...Data Structures & Algorithms
 - 👯 I’m looking to collaborate on ... Visual Studio
 - 🤔 I’m looking for help with ...AWS
