@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ...Data Structures & Algoritms
-- 🌱 I’m currently learning ...Data Structures & Algorithms
-- 👯 I’m looking to collaborate on ... Visual Studio
-- 🤔 I’m looking for help with ...Swift
+- 🔭 I’m currently working on ...project
+- 🌱 I’m currently learning ...Theory of Computation, AI, and Operation Systems.
+- 👯 I’m looking to collaborate on ... anything
+- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...narkwormensah@gmail.com
 - 😄 Pronouns: ...She/Her/Hers
-- ⚡ Fun fact: ...I can speak spanish
+- ⚡ Fun fact: ...working on side project
 
