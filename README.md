@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on ... anything
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ...narkwormensah@gmail.com
+- 📫 How to reach me: ...LinkedIn or Email
 - 😄 Pronouns: ...She/Her/Hers
 - ⚡ Fun fact: ...working on side project
 
