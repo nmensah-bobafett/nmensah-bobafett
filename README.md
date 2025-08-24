@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on ...project
-- 🌱 I’m currently learning ...Software Eng.
+- 🌱 I’m currently learning ...A.I.
 - 👯 I’m looking to collaborate on ... anything
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...Anything
